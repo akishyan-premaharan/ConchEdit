@@ -45,3 +45,4 @@ bash conchedit.sh
 |![Nano](https://img.shields.io/badge/nano-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)|Text processor called **in the project code**|
 |![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)|Text processor called in the project code|
 |![Unix](https://img.shields.io/badge/unix-%23323330.svg?style=for-the-badge&logo=atandt&logoColor=white)|The software origin of the main shell commands|
+|![Stack Overflow](https://img.shields.io/badge/Stack%20overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)|Used in order to learn difficult BASH Documentation/OS Connections|
