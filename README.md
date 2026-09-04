@@ -14,13 +14,13 @@
 
 Asides from some code triggers, ConchEdit is a developer environment written entirely in BASH that features: 
 
-- **Version control**
+- 🔄  **Version control**
   
-- A **replica of a terminal** application inside a terminal!
+- 🖥️  A **replica of a terminal** application inside a terminal!
   
-- Syntax Highlighting
+- 🖋️  Syntax Highlighting
   
-- Access to editors such as GNU's **Nano/Vim**
+- 📄  Access to editors such as GNU's **Nano/Vim**
 
 ## How to run this Project?
 
