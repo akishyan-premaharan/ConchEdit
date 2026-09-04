@@ -41,7 +41,7 @@ bash conchedit.sh
 |----|-----|
 |![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)|The software architecture used to execute/test this project on|
 |![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|The **shell-scripting** language|
-|[![OneCompiler.com](https://img.shields.io/badge/OneCompiler.com-2563EB.svg?style=for-the-badge&logo=onecompiler.com&logoColor=white)](https://onecompiler.com/)|One of the primary **IDES** used in this project|
+|[![OneCompiler.com](https://img.shields.io/badge/%3C%7C%3E%20OneCompiler.com-2563EB.svg?style=for-the-badge)](https://onecompiler.com/)|One of the primary **IDES** used in this project|
 |![Nano](https://img.shields.io/badge/nano-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)|Text processor called **in the project code**|
 |![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)|Text processor called in the project code|
 |![Unix](https://img.shields.io/badge/unix-%23323330.svg?style=for-the-badge&logo=atandt&logoColor=white)|The software origin of the main shell commands|
